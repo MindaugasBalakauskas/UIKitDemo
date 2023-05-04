@@ -1,6 +1,6 @@
 # UIKitDemo
 
-Simple app to demonstrate lists use in UIKit
+Simple app to demonstrate lists use in UIKit and MVVM architecture 
 API: Use of response JSON file to read Jackpot data.
 
 ## Requirements
